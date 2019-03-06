@@ -31,30 +31,43 @@ Column | Description
 Source: [Weather Underground](http://wunderground.com)
 
 #### Steps for this workshop
-**Person A**
+**Person A**  
+```
 1. Visit this repository. (You're here, great job!)  
 2. Fork this repository (button top right)   
 3. Add your team member (Settings -> Collaborators)   
+```
 
-**Person B**
-4. Accept invitation 
+**Person B**  
+```
+4. Accept invitation
 5. Open `visualize_weather.py`
 6. Update line 13 (`KPHL` -> `KHOU`)
 7. Update line 113 (`Philadelphia, PA\’s` -> `Houston, TX\’s`)
 8. Create commit on a new branch
 9. Submit pull request and assign your colleague
+```
 
-**Person A**
+**Person A**  
+```
 10. Go to pull request and leave a suggestion
 11. Request changes and submit review
+```
 
-**Person B**
+**Person B**  
+```
 12. Accept suggestion (You can say thank you)  
+```
 
 **Person A**
+```
 13. Approve Pull Request
+```
 
 **Person A or B**
+```
 14. Merge Pull request
+```
+
 
 
